@@ -1,0 +1,11 @@
+ollama
+rir_api
+streamlit
+opencv-python
+supervision
+numpy
+matplotlib
+Pillow
+requests
+docker
+python-dotenv
